@@ -61,7 +61,8 @@ export default class App extends React.Component {
             <div className="col text-center" style={{ padding: "10px" }}>
               <a
                 class="github-button"
-                href="https://github.com/lelouchB"y
+                href="https://github.com/lelouchB"
+                y
                 data-size="large"
                 aria-label="Follow @lelouchB on GitHub"
               >
